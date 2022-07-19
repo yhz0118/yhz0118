@@ -1,7 +1,7 @@
 ## 👋Hi, there! This is Yunseo Choi.
 
 
-### I’m interested in Digital Forensics / Deep Learning / AI
+### I’m interested in Deep Learning / AI / Digital Forensics
 
 ---
 
