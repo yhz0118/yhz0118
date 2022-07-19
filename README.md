@@ -30,7 +30,7 @@
 
 2020.10 ~ 2020.10 | [AI] AI Connect-6 Competition 3rd Place Award at Handong Global University
 
-2020.10 ~ 2021.03 | [AI/NLP] Development for a recommendation platform based on sentence similarity
+2020.10 ~ 2021.03 | [AI/NLP] Development for a Recommendation Platform Based on Sentence Similarity
 
 2021.03 ~ 2021.12 |  [AI/CV] Development for Multi-Sensor-Based Intelligent AVM System Semiconductor for Automatic Valet Parking for Autonomous Driving
 
