@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yhz0118
 - 👀 I’m interested in Digital Forensics/Deep Learning/AI
-- 🌱 I’m currently learning Forensics
+- 🌱 I’m currently working as a research and development engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => yunwest018@gmail.com
 
