@@ -34,7 +34,7 @@
 
 2021.03 ~ 2021.12 | [BE] Prototype Registration for Multi-Sensor-Based Intelligent AVM System Semiconductor of Autonomous Valet Parking and Driving
 
-2021.12 ~ 2022.02 | [DL/OD] Object Detection Database Cleaning and R-CNN Study
+2021.12 ~ 2022.02 | [DL/OD] Database Cleaning for Object Detection and R-CNN Study
 
 2022.03 ~ 2022.06 | [DL] Development for Age and Gender Predictor using Deep Learning Technologies
 
