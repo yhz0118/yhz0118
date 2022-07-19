@@ -26,8 +26,6 @@
 
 2020.06 ~ 2020.07 | [OO] 2020 Summer Java Programming Camp 👉🏻  [https://blog.naver.com/yunwest018](https://blog.naver.com/yunwest018)
 
-2020.08 ~ 2020.10 |  Development for WICIU Framework 👉🏻  https://github.com/callee2006/WICWIU.git
-
 2020.10 ~ 2020.10 | [AI] AI Connect-6 Competition 3rd Place Award at Handong Global University
 
 2020.10 ~ 2021.03 | [AI/NLP] Development for a Recommendation Platform Based on Sentence Similarity
