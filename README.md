@@ -30,9 +30,9 @@
 
 2020.10 ~ 2021.03 | [AI/NLP] Development for a Recommendation Platform Based on Sentence Similarity
 
-2021.03 ~ 2021.12 |  [BE/AI/CV] Development for Multi-Sensor-Based Intelligent AVM System Semiconductor for Automatic Valet Parking for Autonomous Driving
+2021.03 ~ 2021.12 |  [BE/AI/CV] Development for Multi-Sensor-Based Intelligent AVM System Semiconductor of Autonomous Valet Parking and Driving
 
-2021.03 ~ 2021.12 | [BE] Prototype Registration for Multi-Sensor-Based Intelligent AVM System Semiconductor for Automatic Valet Parking for Autonomous Driving System
+2021.03 ~ 2021.12 | [BE] Prototype Registration for Multi-Sensor-Based Intelligent AVM System Semiconductor of Autonomous Valet Parking and Driving Technology
 
 2021.12 ~ 2022.02 | [DL/OD] Object Detection Database Cleaning and R-CNN Study
 
