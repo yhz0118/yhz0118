@@ -36,7 +36,7 @@
 
 2021.12 ~ 2022.02 | [DL/OD] Object Detection Database Cleaning and R-CNN Study
 
-2022.03 ~ 2022.06 | [DL] Age and Gender Predictor using Deep Learning Technologies
+2022.03 ~ 2022.06 | [DL] Development for Age and Gender Predictor using Deep Learning Technologies
 
 2022.06  ~         | [Video/CV] MD-Video Study And Development for Video Stabilization
 
