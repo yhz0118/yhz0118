@@ -18,7 +18,7 @@
 
 
     
-- HancomWITH
+- Hancom Group
     - Research And Developement(R&D) Engineer(2022.6 ~ )
 
     
