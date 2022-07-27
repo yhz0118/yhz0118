@@ -38,6 +38,7 @@
 
 2022.03 ~ 2022.06 | [DL] Development for Age and Gender Predictor using Deep Learning Technologies
 
+2022.06 ~ 2022.07 | [Cloud] MD-Cloud Study And Development for Zoom Extractor
+
 2022.06  ~        | [Video/CV] MD-Video Study And Development for Video Stabilization
 
-2022.06  ~        | [Cloud] MD-Cloud Study And Development for Zoom Extractor
