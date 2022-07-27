@@ -18,7 +18,7 @@
 
 
     
-- Hancom Group
+- Hancom Group, Forensics Lab
     - Research And Developement(R&D) Engineer(2022.6 ~ )
 
     
