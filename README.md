@@ -44,6 +44,7 @@
 
 ---
 ### <div align=center><h1> Tech-Stack 🛠</h1></div>
+<div align=center>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=Ct&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/><img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/><img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.Net&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>    
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>    
