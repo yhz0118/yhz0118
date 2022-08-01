@@ -52,4 +52,5 @@
 <img src="https://img.shields.io/badge/Arm-0091BD?style=flat&logo=Arm&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
 
+    ---
 ![Yunseo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yhz0118&show_icons=true&theme=tokyonight)
