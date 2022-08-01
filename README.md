@@ -47,7 +47,7 @@
 ### Tech-Stack 🛠
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=Ct&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/C#-239120?style=flat&logo=CSharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.Net&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
