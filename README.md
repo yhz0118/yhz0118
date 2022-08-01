@@ -24,7 +24,7 @@
     
 ---
 
-2020.06 ~ 2020.07 | [PP] 2020 Summer Java Programming Camp
+2020.06 ~ 2020.07 | 2020 Summer Java Programming Camp
 
 2020.10 ~ 2020.10 | [AI] AI Connect-6 Competition 3rd Place Award at Handong Global University
 
@@ -40,5 +40,5 @@
 
 2022.06 ~ 2022.07 | [Cloud] MD-Cloud Study And Development for Zoom Extractor
 
-2022.06  ~        | [Video/CV] MD-Video Study And Development for Video Stabilization
+2022.06  ~        | [Video] MD-Video Study And Development for Video Stabilization
 
