@@ -46,9 +46,8 @@
 ---
 ### Tech-Stack 🛠
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=Ct&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.Net&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
