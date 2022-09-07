@@ -37,11 +37,11 @@
 
 2022.03 ~ 2022.06 | [DL] Development for Age and Gender Predictor using Deep Learning Technologies
 
-2022.06 ~ 2022.07 | [Cloud] MD-Cloud Study And Development for Zoom Extractor
+2022.06 ~ 2022.07 | [Cloud] MD-Cloud Study And Zoom Extractor Implementation
 
-2022.06  ~        | [Video] MD-Video Study And Development for Video Stabilization
+2022.06  ~        | [Video] MD-Video Study And Video Stabilization Implementation
 
-2022.08 ~ 2022.09 | [FS] File System Study and Implementation of FAT32
+2022.08 ~ 2022.09 | [FS] File System Study And FAT32 Implementation
 
 
 ---
