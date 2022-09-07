@@ -39,8 +39,9 @@
 
 2022.06 ~ 2022.07 | [Cloud] MD-Cloud Study And Development for Zoom Extractor
 
-2022.06  ~        | [Video] MD-Video Study And Development for Video Stabilization
+2022.08 ~ 2022.09 | [FS] File System Study and Implementation of FAT32
 
+2022.06  ~        | [Video] MD-Video Study And Development for Video Stabilization
 
 ---
 <div align=center><h2> Tech-Stack 🛠</h2></div>
