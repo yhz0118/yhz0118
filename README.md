@@ -41,7 +41,7 @@
 
 2022.06  ~        | [Video] MD-Video Study And Video Stabilization Implementation
 
-2022.08 ~ 2022.09 | [VFS] FAT32 Implementation
+2022.08 ~ 2022.09 | [FS] FAT32 Implementation
 
 
 ---
