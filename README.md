@@ -43,6 +43,8 @@
 
 2022.08 ~ 2022.09 | [VFS] FAT32 Implementation
 
+2022.09 ~         | [WPF] UI/UX Implementation with WPF
+
 
 ---
 <div align=center><h2> Tech-Stack 🛠</h2></div>
