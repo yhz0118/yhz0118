@@ -43,7 +43,7 @@
 
 2022.08 ~ 2022.09 | [VFS] FAT32 Implementation
 
-2022.09 ~         | [WPF] UI/UX Implementation using WPF
+2022.09 ~         | [WPF] UI/UX Implementation
 
 
 ---
