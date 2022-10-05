@@ -31,7 +31,7 @@
 
 2021.03 ~ 2021.12 |  [BE/AI/CV] Multi-Sensor-Based Intelligent AVM System Semiconductor of Autonomous Valet Parking and Driving Development
 
-2021.03 ~ 2021.12 | [BE]  Multi-Sensor-Based Intelligent AVM System Semiconductor of Autonomous Valet Parking and Driving Prototype Registration
+2021.03 ~ 2021.12 | [BE]  Prototype Registration for Multi-Sensor-Based Intelligent AVM System Semiconductor of Autonomous Valet Parking and Driving
 
 2021.12 ~ 2022.02 | [DL/OD] Database Cleaning for Object Detection and R-CNN Study
 
