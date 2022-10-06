@@ -23,8 +23,6 @@
     
 ---
 
-2020.06 ~ 2020.07 | 2020 Summer Java Programming Camp
-
 2020.10 ~ 2020.10 | [AI] AI Connect-6 Competition 3rd Place Award at Handong Global University
 
 2020.10 ~ 2021.03 | [AI/NLP] Recommendation Platform Based on Sentence Similarity Development
@@ -41,7 +39,7 @@
 
 2022.06  ~        | [Video] MD-Video Study And Video Stabilization Implementation
 
-2022.08 ~ 2022.09 | [VFS] FAT32 Implementation
+2022.08 ~ 2022.09 | [FS] Virtual File System(FAT32) Implementation
 
 2022.09 ~         | [WPF] UI/UX Implementation
 
