@@ -41,7 +41,7 @@
 
 2022.08 ~ 2022.09 | [FS] Virtual File System(FAT32) Implementation
 
-2022.09 ~         | [WPF] UI/UX Implementation
+2022.09 ~ 2022.11 | [WPF] UI/UX Implementation
 
 
 ---
