@@ -13,7 +13,7 @@
 
     
 - StradVision
-    - Algorithm Engineer(2021.12 ~ 2022.2)
+    - Algorithm Engineering Internship(2021.12 ~ 2022.2)
 
 
     
