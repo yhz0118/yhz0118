@@ -17,7 +17,7 @@
 
 
     
--  GMDSOFT(HANCOMWITH) Forensics Lab
+-  HANCOMWITH Forensics Lab
     - Research And Developement(R&D) Engineer(2022.6 ~ )
 
     
