@@ -43,6 +43,8 @@
 
 2022.09 ~ 2022.11 | [WPF] UI/UX Implementation
 
+2023.05 ~         | [AI/Number Plate Restoration] Car Number Plate Restoration
+
 
 ---
 <div align=center><h2> Tech-Stack 🛠</h2></div>
